@@ -1,5 +1,15 @@
 # Wiki Lookalike
  
+ 
+ScreenShots :
+-------------
+<div align="center">
+    <img src="wiki.png" width="250px"</img>
+ </div>
+ 
+ 
+ 
+ 
 Desinged a dynamic website that functions and looks alike of wikipedia.
 -----------------------------------------------------------------------
 
