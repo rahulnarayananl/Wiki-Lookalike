@@ -4,7 +4,7 @@
 ScreenShots :
 -------------
 <div align="center">
-    <img src="wiki.png" width="250px"</img>
+    <img src="wiki.png"</img>
  </div>
  
  
